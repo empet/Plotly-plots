@@ -9,3 +9,5 @@ IPython Notebooks for Plotly plots
 3. [A Scoreboard for Republican Presidential Candidates. A Plotly Heatmap](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Scoreboard-republican-candidates.ipynb)
 
 4. [2D kernel density estimation and its Plotly plot](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/kdeplot-2d-Plotly.ipynb)
+
+5. [Plotly Plots of Stock Price Data Retrieved by Pandas from Yahoo! Finance](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Retrieve-plot-yahoo-finance-data.ipynb)
