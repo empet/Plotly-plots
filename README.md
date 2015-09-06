@@ -13,3 +13,7 @@ IPython Notebooks for Plotly plots
 5. [Plotly Plots of Stock Price Data Retrieved by Pandas from Yahoo! Finance](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Retrieve-plot-yahoo-finance-data.ipynb)
 
 6. [3D Subplots](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Subplots-3D.ipynb)
+
+7. [Gaussian Mixture. Contour plot and a cloud of points resulted from sampling](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Gaussian-Mixture.ipynb)
+
+8. [Pascal Triangle](https://raw.githubusercontent.com/empet/Plotly-plots/master/Pascal-Triangle.ipynb)
