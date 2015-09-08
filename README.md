@@ -17,3 +17,5 @@ IPython Notebooks for Plotly plots
 7. [Gaussian Mixture. Contour plot and a cloud of points resulted from sampling](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Gaussian-Mixture.ipynb)
 
 8. [Pascal Triangle](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Pascal-Triangle.ipynb)
+
+9. [Strips on sphere](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Strips-on-sphere.ipynb)
