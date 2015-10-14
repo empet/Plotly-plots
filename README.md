@@ -20,4 +20,6 @@ IPython Notebooks for Plotly plots
 
 9. [Strips on sphere](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Strips-on-sphere.ipynb)
 
-10.[Plotly asymmetric diverging colorscales](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Plotly-asymmetric-colorscales.ipynb)
+10. [Plotly asymmetric diverging colorscales](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Plotly-asymmetric-colorscales.ipynb)
+
+11. [Triangular wireframe on sphere](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Triangular-wireplot-sphere.ipynb)
