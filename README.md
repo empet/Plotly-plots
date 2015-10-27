@@ -22,10 +22,10 @@ IPython Notebooks for Plotly plots
 
 10. [Plotly asymmetric diverging colorscales](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Plotly-asymmetric-colorscales.ipynb)
 
-11. [Plotly Networks](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Networks-plotly.ipynb)
-
-12. [Barabasi-Albert graph](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Barabasi-Albert-Graph.ipynb)
-
 11. [Triangular wireframe on sphere](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Triangular-wireplot-sphere.ipynb)
 
-12. [Communities in a Facebook network](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Comm-network-igraph.ipynb)
+12. [Plotly Networks](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Networks-plotly.ipynb)
+
+13. [Barabasi-Albert graph](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Barabasi-Albert-Graph.ipynb)
+
+14. [Communities in a Facebook network](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Comm-network-igraph.ipynb)
