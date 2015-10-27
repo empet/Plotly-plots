@@ -27,3 +27,5 @@ IPython Notebooks for Plotly plots
 12. [Barabasi-Albert graph](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Barabasi-Albert-Graph.ipynb)
 
 11. [Triangular wireframe on sphere](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Triangular-wireplot-sphere.ipynb)
+
+12. [Communities in a Facebook network](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Comm-network-igraph.ipynb)
