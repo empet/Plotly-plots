@@ -29,3 +29,7 @@ IPython Notebooks for Plotly plots
 13. [Barabasi-Albert graph](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Barabasi-Albert-Graph.ipynb)
 
 14. [Communities in a Facebook network](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Comm-network-igraph.ipynb)
+
+15. [Network of coappearances of characters in Victor Hugo's novel Les Miserables (3D visualizatio](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Les-miserables-network.ipynb)
+
+16. [Coauthorship network of scientists working on network theory and experiment](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/netscience.ipynb)
