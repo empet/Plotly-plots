@@ -35,3 +35,5 @@ IPython Notebooks for Plotly plots
 16. [Coauthorship network of scientists working on network theory and experiment](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/netscience.ipynb)
 
 17. [Eurovision-Circular-Graph](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/EuroVision-Circular-Graph.ipynb)
+
+18. [Chord-Diagrams](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Chord-diagram.ipynb)
