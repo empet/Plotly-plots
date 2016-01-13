@@ -37,3 +37,7 @@ IPython Notebooks for Plotly plots
 17. [Eurovision-Circular-Graph](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/EuroVision-Circular-Graph.ipynb)
 
 18. [Chord-Diagrams](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Chord-diagram.ipynb)
+
+19. [Spiral Plot: Simona Halep 2015 tennis tournament results](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Spiral-Plot.ipynb)
+
+20. [Plotly Plot of Alpha Shapes](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Plotly-Mesh3d.ipynb)
