@@ -41,3 +41,5 @@ IPython Notebooks for Plotly plots
 19. [Spiral Plot: Simona Halep 2015 tennis tournament results](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Spiral-Plot.ipynb)
 
 20. [Plotly Plot of Alpha Shapes](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Plotly-Mesh3d.ipynb)
+
+21. [Arc Diagram of Star Wars Characters that Interacted in The Force Awakens](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Arc-diagram-Force-Awakens.ipynb)
