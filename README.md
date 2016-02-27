@@ -45,3 +45,5 @@ IPython Notebooks for Plotly plots
 21. [Arc Diagram of Star Wars Characters that Interacted in The Force Awakens](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Arc-diagram-Force-Awakens.ipynb)
 
 22. [Generating a Plotly mesh from a ply file](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Airplane.ipynb)
+
+23. [Kernel Density Estimation for a joint pdf and its marginals](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/kde-joint-marginals.ipynb)
