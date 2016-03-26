@@ -47,3 +47,5 @@ IPython Notebooks for Plotly plots
 22. [Generating a Plotly mesh from a ply file](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Airplane.ipynb)
 
 23. [Kernel Density Estimation for a joint pdf and its marginals](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/kde-joint-marginals.ipynb)
+
+24. [Violin Plot with Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Violin-Plot-Plotly.ipynb)
