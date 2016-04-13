@@ -49,3 +49,5 @@ IPython Notebooks for Plotly plots
 23. [Kernel Density Estimation for a joint pdf and its marginals](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/kde-joint-marginals.ipynb)
 
 24. [Violin Plot with Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Violin-Plot-Plotly.ipynb)
+
+25. [Defining and plotting triangulated surfaces (tri-surfs) with Plotly Mesh3d](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Tri-Surf-Plotly.ipynb)
