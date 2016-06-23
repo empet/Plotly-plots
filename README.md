@@ -2,7 +2,7 @@
 IPython Notebooks for Plotly plots
 
 
-1. [Viridis type colorscale for Plotly. Surface, contour plot and heatmap with viridis. Streamlines](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Viridis-colorscale.ipynb) 
+1. [Viridis type colorscale for Plotly. Surface, contour plot and heatmap with viridis. Streamlines](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Viridis-colorscale.ipynb)
 
 2. [Medals for participating countries at the International Olympiad in Informatics, 1989-2015](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/IOI-Medals.ipynb)
 
@@ -51,3 +51,5 @@ IPython Notebooks for Plotly plots
 24. [Violin Plot with Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Violin-Plot-Plotly.ipynb)
 
 25. [Defining and plotting triangulated surfaces (tri-surfs) with Plotly Mesh3d](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Tri-Surf-Plotly.ipynb)
+
+26.[Europe Happiness according to the World Happiness Report 2016](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Europe-Happiness.ipynb)
