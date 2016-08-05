@@ -52,6 +52,8 @@ IPython Notebooks for Plotly plots
 
 25. [Defining and plotting triangulated surfaces (tri-surfs) with Plotly Mesh3d](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Tri-Surf-Plotly.ipynb)
 
-26. [Europe Happiness according to the World Happiness Report 2016](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Europe-Happiness.ipynb)
+26. [Plotly plot of an isosurface](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Isosurface-as-a-trisurf.ipynb)
 
-27. [Dirichlet distribution for Wikipedia](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Dirichlet-Distribution.ipynb)
+27. [Europe Happiness according to the World Happiness Report 2016](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Europe-Happiness.ipynb)
+
+28. [Dirichlet distribution for Wikipedia](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Dirichlet-Distribution.ipynb)
