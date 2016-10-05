@@ -55,3 +55,5 @@ IPython Notebooks for Plotly plots
 26. [Europe Happiness according to the World Happiness Report 2016](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Europe-Happiness.ipynb)
 
 27. [Dirichlet distribution for Wikipedia](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Dirichlet-Distribution.ipynb)
+
+28. [Graphviz networks plotted with Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Radial-tree-US-Open-16.ipynb)
