@@ -57,3 +57,5 @@ IPython Notebooks for Plotly plots
 27. [Dirichlet distribution for Wikipedia](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Dirichlet-Distribution.ipynb)
 
 28. [Graphviz networks plotted with Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Radial-tree-US-Open-16.ipynb)
+
+29. [Plotly Cube: a cube with Plotly logo mapped on its faces](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Plotly-cube.ipynb)
