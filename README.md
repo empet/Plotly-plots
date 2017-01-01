@@ -59,3 +59,5 @@ IPython Notebooks for Plotly plots
 28. [Graphviz networks plotted with Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Radial-tree-US-Open-16.ipynb)
 
 29. [Plotly Cube: a cube with Plotly logo mapped on its faces](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Plotly-cube.ipynb)
+
+30. [Normals along the central circle of the Moebius strip](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Moebius-Normals.ipynb)
