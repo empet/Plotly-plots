@@ -61,3 +61,5 @@ IPython Notebooks for Plotly plots
 29. [Plotly Cube: a cube with Plotly logo mapped on its faces](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Plotly-cube.ipynb)
 
 30. [Normals along the central circle of the Moebius strip](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Moebius-Normals.ipynb)
+
+31.[Slices in volumetric data, via Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Plotly-Slice-in-volumetric-data.ipynb)
