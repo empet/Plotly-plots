@@ -1,5 +1,4 @@
 # Plotly-plots
-IPython Notebooks for Plotly plots
 
 
 1. [Viridis type colorscale for Plotly. Surface, contour plot and heatmap with viridis. Streamlines](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Viridis-colorscale.ipynb)
@@ -62,4 +61,4 @@ IPython Notebooks for Plotly plots
 
 30. [Normals along the central circle of the Moebius strip](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Moebius-Normals.ipynb)
 
-31.[Slices in volumetric data, via Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Plotly-Slice-in-volumetric-data.ipynb)
+31. [Slices in volumetric data, via Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Plotly-Slice-in-volumetric-data.ipynb)
