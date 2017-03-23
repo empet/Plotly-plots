@@ -62,3 +62,5 @@
 30. [Normals along the central circle of the Moebius strip](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Moebius-Normals.ipynb)
 
 31. [Slices in volumetric data, via Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Plotly-Slice-in-volumetric-data.ipynb)
+
+32. [Plotly visualization of DICOM images](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/DICOM-Image-viz.ipynb.ipynb)
