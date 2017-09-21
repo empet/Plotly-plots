@@ -63,6 +63,8 @@
 
 31. [Slices in volumetric data, via Plotly](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Plotly-Slice-in-volumetric-data.ipynb)
 
-32. [Plotly visualization of DICOM images](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/DICOM-Image-viz.ipynb.ipynb)
+32. [Isosurface in volumetric data](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Isosurface-in-volumetric-data.ipynb)
 
-33. [Visualizing Cerebellum as a Plotly Trisurface](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Cerebellum-as-a-trisurf.ipynb)
+33. [Plotly visualization of DICOM images](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/DICOM-Image-viz.ipynb.ipynb)
+
+34. [Visualizing Cerebellum as a Plotly Trisurface](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Cerebellum-as-a-trisurf.ipynb)
