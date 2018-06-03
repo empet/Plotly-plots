@@ -68,3 +68,6 @@
 33. [Plotly visualization of DICOM images](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/DICOM-Image-viz.ipynb.ipynb)
 
 34. [Visualizing Cerebellum as a Plotly Trisurface](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Cerebellum-as-a-trisurf.ipynb)
+
+
+SOME OF THE FIRST NOTEBOOKS IN THIS REPO COULD BE TOO OLD TO WORK WITH THE LATEST PLOTLY VERSIONS AND OTHER IMPORTED LIBRARIES.
