@@ -31,7 +31,7 @@
 
 15. [Network of coappearances of characters in Victor Hugo's novel Les Miserables (3D visualization)](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/Les-miserables-network.ipynb)
 
-16. [Coauthorship network of scientists working on network theory and experiment](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/netscience.ipynb)
+16. [Coauthorship network of scientists working on network theory and experiment](https://nbviewer.jupyter.org/github/empet/Networks/blob/master/kk-layout-in-3-packages-netsci.ipynb)
 
 17. [Eurovision-Circular-Graph](http://nbviewer.ipython.org/github/empet/Plotly-plots/blob/master/EuroVision-Circular-Graph.ipynb)
 
@@ -69,5 +69,6 @@
 
 34. [Visualizing Cerebellum as a Plotly Trisurface](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Cerebellum-as-a-trisurf.ipynb)
 
+35. [Google-AI Turbo colorscale](https://nbviewer.jupyter.org/github/empet/Plotly-Turbo-Colorscale/blob/master/Google-AI-Turbo-colorscale.ipynb)
 
 SOME OF THE FIRST NOTEBOOKS IN THIS REPO COULD BE TOO OLD TO WORK WITH THE LATEST PLOTLY VERSIONS AND OTHER IMPORTED LIBRARIES.
