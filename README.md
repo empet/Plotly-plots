@@ -69,6 +69,4 @@
 
 34. [Visualizing Cerebellum as a Plotly Trisurface](http://nbviewer.jupyter.org/github/empet/Plotly-plots/blob/master/Cerebellum-as-a-trisurf.ipynb)
 
-35. [Google-AI Turbo colorscale](https://nbviewer.jupyter.org/github/empet/Plotly-Turbo-Colorscale/blob/master/Google-AI-Turbo-colorscale.ipynb)
-
 SOME OF THE FIRST NOTEBOOKS IN THIS REPO COULD BE TOO OLD TO WORK WITH THE LATEST PLOTLY VERSIONS AND OTHER IMPORTED LIBRARIES.
